@@ -4,7 +4,7 @@ An enterprise-grade Retrieval-Augmented Generation (RAG) system with a React fro
 
 # Demo URL
 
-Link: http://13.63.33.243
+Link: https://rag-frontend-233220386101.asia-south1.run.app
 
 ## Architecture Overview
 
