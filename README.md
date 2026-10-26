@@ -1,6 +1,6 @@
 # Agentic RAG Pipeline
 
-An enterprise-grade Retrieval-Augmented Generation (RAG) system with a React frontend and FastAPI backend. Features document ingestion, semantic search, vector storage with Milvus, NVIDIA embeddings, and OpenAI-powered grounded responses.
+An enterprise-grade Agentic Retrieval-Augmented Generation (RAG) system with a React frontend and FastAPI backend. Features document ingestion, semantic search, vector storage with Milvus, Google adk, NVIDIA embeddings, and OpenAI-powered grounded responses.
 
 # Demo URL
 
