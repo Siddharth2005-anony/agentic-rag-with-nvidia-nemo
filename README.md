@@ -7,22 +7,7 @@ An enterprise-grade Retrieval-Augmented Generation (RAG) system with a React fro
 Link: https://rag-frontend-233220386101.asia-south1.run.app
 
 ## Architecture Overview
-
-```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│   Frontend      │     │    Backend      │     │   Database      │
-│   (React/Vite)  │────▶│   (FastAPI)     │────▶│   (Milvus)      │
-│   Port: 5173    │     │   Port: 8000    │     │   (demo.db)     │
-└─────────────────┘     └─────────────────┘     └─────────────────┘
-                                │
-                                ▼
-                       ┌─────────────────┐
-                       │   LLM &         │
-                       │   Embeddings    │
-                       │   (OpenAI +     │
-                       │   NVIDIA)       │
-                       └─────────────────┘
-```
+![Logo Description](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*HPUiFeHiBTd55OBx-rLVfQ.jpeg)
 
 ## Features
 
